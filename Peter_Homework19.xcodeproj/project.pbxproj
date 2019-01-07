@@ -14,6 +14,7 @@
 		0C84C0E621DC851C00371112 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C84C0E421DC851C00371112 /* LaunchScreen.storyboard */; };
 		0C84C0F121DC851D00371112 /* Peter_Homework19Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C84C0F021DC851D00371112 /* Peter_Homework19Tests.swift */; };
 		0C84C0FC21DC851D00371112 /* Peter_Homework19UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C84C0FB21DC851D00371112 /* Peter_Homework19UITests.swift */; };
+		0C84C10C21DCDE9B00371112 /* SuperMarketDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C84C10B21DCDE9B00371112 /* SuperMarketDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0C84C0F721DC851D00371112 /* Peter_Homework19UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Peter_Homework19UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C84C0FB21DC851D00371112 /* Peter_Homework19UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Peter_Homework19UITests.swift; sourceTree = "<group>"; };
 		0C84C0FD21DC851D00371112 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C84C10B21DCDE9B00371112 /* SuperMarketDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperMarketDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				0C84C0DB21DC851B00371112 /* AppDelegate.swift */,
 				0C84C0DD21DC851B00371112 /* ViewController.swift */,
+				0C84C10B21DCDE9B00371112 /* SuperMarketDetailViewController.swift */,
 				0C84C0DF21DC851B00371112 /* Main.storyboard */,
 				0C84C0E221DC851C00371112 /* Assets.xcassets */,
 				0C84C0E421DC851C00371112 /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0C84C0DE21DC851B00371112 /* ViewController.swift in Sources */,
+				0C84C10C21DCDE9B00371112 /* SuperMarketDetailViewController.swift in Sources */,
 				0C84C0DC21DC851B00371112 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
